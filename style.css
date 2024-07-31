@@ -1,0 +1,142 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-image: url('bg.jpg');
+    background-repeat: repeat-x;
+    background-color: #c31e1e;
+    direction: rtl;
+
+
+}
+
+ul li a {
+    color: #ccc !important;
+
+}
+
+.top1 {
+
+    height: 49px;
+    margin: auto;
+
+}
+.top-logo{
+    width: 50%;
+    position: absolute;
+    top: -15px;
+    right: 20%;
+}
+.date-header i{
+    margin-right: 10px;
+    color: #ED1B24;
+    font-size: 15px;
+}
+.logo img{
+    width: 50% !important;
+}
+.form-control{
+    margin-top: 10px;
+    height: 23px;
+    border-radius: 50%;
+}
+.form-btn{
+    display: flex;
+    margin-top: 10px;
+    height: 30px;
+    border-radius: 30% !important;
+}
+.input-group{
+    width: 100%;
+    height: 23px !important;
+}
+.top2 {
+
+    height: 46px;
+
+}
+
+.header {
+
+    height: 128px;
+
+}
+
+.nav {
+
+    height: 43px;
+
+}
+
+#content {
+    background-color: white;
+    min-height: 500px;
+    direction: ltr;
+
+}
+
+
+.nav-link {
+    color: white;
+}
+.navB{
+    height: 43px;
+}
+.ads{
+    padding: 0%;
+
+    background-color: white;
+}
+.news{
+    background-color:white;
+    padding: 0px;
+    
+}
+.headE{
+    border-right: 10px solid #8e8e8e;
+    background-color: gray;
+    color: white;
+    margin: 0px;
+    direction: rtl;
+    padding-right: 10px;
+}
+.caption {
+    width: 50%;
+}
+.cardE{
+    background-color: #f0f0f0;
+    display: flex ;
+    justify-content: space-around;
+}
+.images{
+    width: 30%;
+    padding-right: 10px;
+}
+.cards{
+    margin-right:0px ;
+    background-color: #f0f0f0;
+}
+.cards :hover{
+    background-color: #DCDCDC;
+}
+
+.ads-img {
+    margin-left:30px;    
+    width: 320px;
+    aspect-ratio: auto 320 / 300;
+    height: 300px
+}
+.caption a{
+    text-decoration: none;
+    color: black;
+}
+.caption a :hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+
